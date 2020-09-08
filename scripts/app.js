@@ -1,8 +1,12 @@
+import Banner from './Banner.jsx';
+import Filter from './Filter.jsx';
+
 class App extends React.Component{
     render(){
       return(
           <div>
-              <h1>Hello</h1>
+              <Banner title="Tours Medellin" />
+              <Filter />
           </div>
       ); 
     }
