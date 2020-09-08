@@ -1,0 +1,76 @@
+.header {
+	background-color: #2CCFA2;
+}
+
+.h4-header {
+	color: white;
+}
+.h5-header {
+	color: white;
+}
+.filters {
+	background-color: #297ca5;
+}
+
+.col-md {
+	padding: 10px;
+}
+
+.item {
+	padding: 20px;
+}
+
+.logo {
+	background-color: #25B6FF ;
+	padding: 11px;
+	border-radius: 5px;
+}
+
+#inputGroup-sizing-sm{
+	color: white ;
+	background-color:  #25B6FF;
+}
+
+.country {
+	padding: 5px;
+}
+
+.rooms {
+	padding: 5px;
+}
+
+.unChecked {
+	color: #c2ccd6;
+	padding: 5px;
+}
+
+.checked {
+	color: white;
+	padding: 5px;
+}
+
+.price {
+	padding: 5px;
+	background-color:  #25B6FF ;
+}
+
+
+.btn {
+	background-color: #2CCFA2;
+	color: white;
+}
+
+.error {
+	background-color: #f7e881;
+    margin: 30px;
+    float: initial;
+	width: 100%;
+	text-align:center;
+	color:white;
+	border-radius: 10px;
+}
+
+
+
+
+
